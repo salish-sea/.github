@@ -2,11 +2,11 @@
 
 ### Our voyage thus far
 
-Join us in building open source software here on Github to help save the endangered orcas that seek salmon along the west coast of North America. Monitoring and visualizing the marine ecosystem, including in real-time, and creating software that helps conserve species we risk losing is at the 💗 heart of our collective collaboration.
+Join us in building open source software & sharing open data to help save the endangered orcas that seek salmon along the west coast of North America. Monitoring and visualizing marine ecosystems, starting with the Salish Sea in real time, is at the 💗 heart of our collective collaboration.
 
-Would you like to help save the orcas and contribute to open source software? 
+Would you like to help save the orcas by creating software that helps monitor, study, and conserve marine species?
 
-The Salish-Sea organisation on Github has a growing number of projects to which you can contribute. We welcome **coders** (front/back end developers, bioacousticians, data scientists) and **designers** (and other *creatives*), as well as project managers, mentors, and hardware engineers. Please communicate via discussion in Github issues including proposing new features and repos. 
+The Salish-Sea organisation on Github has a growing number of projects to which you can contribute. We welcome **coders** (front/back end developers, bioacousticians, data scientists) and **designers** (and other *creatives*), as well as project managers, user researchers, mentors, and hardware engineers. Please communicate via [salish-sea Discussions](https://github.com/orgs/salish-sea/discussions) (e.g. new projects or repos). Submit Issues within repositories to propose new features or report bugs. 
 
 
 <details> 
