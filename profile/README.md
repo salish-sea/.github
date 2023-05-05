@@ -6,7 +6,7 @@ Join us in building open source software & sharing open data to help save the en
 
 Would you like to help save the orcas by creating software that helps monitor, study, and conserve marine species?
 
-The Salish-Sea organisation on Github has a growing number of projects to which you can contribute. We welcome **coders** (front/back end developers, ecologists, oceanographers, acousticians, data scientists) and **designers** (and other *creatives*), as well as project managers, user researchers, mentors, and hardware engineers. Please communicate via [salish-sea Discussions](https://github.com/orgs/salish-sea/discussions) (e.g. new projects or repos). Submit Issues within repositories to propose new features or report bugs. 
+The Salish-Sea organisation on Github has a growing number of projects to which you can contribute. We welcome **coders** (front/back end developers, ecologists, oceanographers, acousticians, data scientists) and **designers** (and other *creatives*), as well as project managers, user researchers, mentors, and hardware engineers. Please read and contribute to our growing [wiki](https://github.com/salish-sea/.github/wiki), and then communicate via [salish-sea Discussions](https://github.com/orgs/salish-sea/discussions) (e.g. new projects or repos). Submit Issues within repositories to propose new features or report bugs. 
 
 
 <details> 
